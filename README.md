@@ -30,7 +30,7 @@ MQTT communication, and Node-RED visualization.
 - Node-RED
 ## System Architecture
 <img width="975" height="817" alt="image" src="https://github.com/user-attachments/assets/076d77b8-e95e-45fe-b372-fe878741d6c8" />
-##Results
+## Results
 <img width="504" height="372" alt="Screenshot 2026-04-29 235346" src="https://github.com/user-attachments/assets/663d99f8-9881-4a43-b7e6-be6a7eed07c9" />
 <img width="1366" height="768" alt="Screenshot 2026-03-10 123938" src="https://github.com/user-attachments/assets/92be4c59-cbed-4ad2-b554-f875ef6ea167" />
 <img width="1366" height="768" alt="Screenshot 2026-03-09 171220" src="https://github.com/user-attachments/assets/32a3a815-afae-4651-bee1-aea10bb414f3" />
