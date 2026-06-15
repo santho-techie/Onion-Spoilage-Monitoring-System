@@ -1,4 +1,5 @@
-# Onion-Spoilage-Monitoring-System
+# Smart IoT-Based Early Spoilage Detection and Risk Prediction System for Minimising Post
+Harvest Onion Losses
 An IoT-based onion spoilage monitoring system that uses
 VOC sensing, temperature and humidity monitoring, and
 a trend-based Onion Spoilage Risk Index (OSRI) to detect
