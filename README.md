@@ -30,7 +30,7 @@ MQTT communication, and Node-RED visualization.
 - Node-RED
 ## System Architecture
 <img width="975" height="817" alt="image" src="https://github.com/user-attachments/assets/076d77b8-e95e-45fe-b372-fe878741d6c8" />
-## Results
+### Results
 
 The system successfully monitors onion storage conditions in real time and provides spoilage risk estimation using the OSRI model.
 
