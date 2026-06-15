@@ -39,6 +39,20 @@ The system successfully monitors onion storage conditions in real time and provi
 <img width="768" height="1366" alt="Screenshot 2026-03-09 170930" src="https://github.com/user-attachments/assets/8fdc3ea8-4a91-410f-aa49-0d22a3f92db7" />
 <img width="768" height="1366" alt="Screenshot 2026-03-09 171009" src="https://github.com/user-attachments/assets/9b631440-7c04-4956-b988-e97363c88b79" />
 
+### MQTT Message Monitoring
+
+<img width="1366" height="768" alt="Screenshot 2026-03-09 171220" src="https://github.com/user-attachments/assets/9e49d111-99c7-47e5-8c48-98340e00a30a" />
+
+
+### Features Enabled Through AWS
+
+- Secure MQTT communication
+- Real-time sensor data transmission
+- Cloud-based data storage
+- Device connectivity management
+- Remote monitoring capability
+- Integration with Node-RED dashboard
+
 
 
 ### VOC Trend Analysis
